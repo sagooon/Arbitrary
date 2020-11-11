@@ -12,7 +12,6 @@ while(secret_number!=user_input):
           print("No, You guessed it incorrect. Try greater numbers.")
     else:
           print("No, You guessed it incorrect. Try smaller numbers.")
-     
-guessses=str(guessses)         
+             
 print("Finally, you guessed it correct.")
 
