@@ -1,3 +1,3 @@
 #Arbitrary
 
-A demonstration of elementary project for initiating python programmers. Arbitrary is an elementary terminal game developed with the purpose to be used by initiating learners of python as a practice project. It is an uncomplicated script less then 20 lines of codes.
+A demonstration of elementary project for initiating python programmers. Arbitrary is an elementary terminal game developed with the purpose to be used by initiating learners of python as a practice project. It is an uncomplicated script less then 20 lines of codes. Arbitrary imports random module to create an unknown ramdom number with is to be guessed by us. We get numbers from 1 to 99 to be choosen for guessing the unknown random number. We get infinite attempts for guessing the specific number.
