@@ -9,7 +9,7 @@ A demonstration of an elementary project for initiating python programmers. Arbi
 
 Latest version of [python](https://python.org) must be installed on your system including [pip](https://pypi.org/project/pip/) and [random](https://pypi.org/project/random-321/) module for running the program without any error. We recommend you to use [visual code studio](https://code.visualstudio.com/) as the text editor for programming. Also install python in visual code studio from extension panel. Make sure you setup these requirements for the best environment while programming.
 
-## Execute
+## Basic Execution
 
 ```
 
